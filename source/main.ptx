@@ -12,8 +12,19 @@
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-chapter-title.ptx" />
+    <xi:include href="./ch-goals.ptx" />
 
+    <!-- Include chapters -->
+    <xi:include href="./ch-membership.ptx" />
+
+    <!-- Include chapters -->
+    <xi:include href="./ch-training.ptx" />
+
+    <!-- Include chapters -->
+    <xi:include href="./ch-projects.ptx" />
+
+    <!-- Include chapters -->
+    <xi:include href="./ch-facilities.ptx" />
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />

@@ -4,15 +4,22 @@
 <!-- works. -->
 
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
+  <p>
+    <figure> <!-- source: https://math.fandom.com/wiki/Egyptian_mathematics -->
+      <image xml:id="fig-logo" source="MakerCampus_Logo.jpg" width="100%" />
+      
+    </figure>
+  </p>
   <titlepage>
     <author>
-      <personname>Nate Theisen \amp John Estes</personname>
+      <personname>Nate Theisen &amp; John Estes</personname>
       <department>The Maker Campus</department>
       <institution>Belhaven University</institution>
     </author>
     <date>
       <today />
     </date>
+
   </titlepage>
 
   <colophon>
