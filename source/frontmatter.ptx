@@ -6,9 +6,9 @@
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
   <titlepage>
     <author>
-      <personname>You</personname>
-      <department>Your department</department>
-      <institution>Your institution</institution>
+      <personname>Nate Theisen \amp John Estes</personname>
+      <department>The Maker Campus</department>
+      <institution>Belhaven University</institution>
     </author>
     <date>
       <today />
