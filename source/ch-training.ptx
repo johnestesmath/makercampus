@@ -4,8 +4,17 @@
   <title>Training</title>
 
   <introduction>
-    <p> Text before the first section. </p>
+    <p> No Member can operate any machine or use any material without training. 
+      Training is provided by Faculty Advisors, Lab Managers, or other approved members.  </p>
   </introduction>
+
+  <!-- include sections -->
+  <xi:include href="ch-membership/sec-skills.ptx" />
+  <!-- include sections -->
+  <xi:include href="ch-membership/sec-badges.ptx" />
+  <!-- include sections -->
+  <xi:include href="ch-membership/sec-3dprinting.ptx" />
+
 
 
 </chapter>

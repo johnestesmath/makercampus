@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-3dprinting" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>3D Printing</title>
+
+  <p> 3D printing is an additive manufacturing process which creates 3-dimensional objects from digital files.
+     This is done by ‘slicing’ three dimensional models into layers using slicing software, 
+     then printing them out in layers using a printer. 
+  </p>
+  <p> The models are created using CAD (Computer Aided Design) software. The two most common commercially available types of 3D printing are FDM and SLA.</p> 
+    
+  <subsection xml:id="subsec-fdm">
+    <title>FDM Printing</title>
+    <p>
+        Fused Deposition Modeling (FDM) utilized thermoplastic filament which is heated, extruded, and put down in layers on a bed. FDM printing is an excellent
+        choice for most common prints.
+    </p>
+  </subsection>
+  
+
+  <subsection xml:id="subsec-sla">
+    <title>SLA Printing</title>
+    <p>
+        Stereolithography (SLA) printing uses UV light (typically a laser) to convert resin into a solid plastic. 
+        This is also done in layers, but the bed is inverted, and the model is pulled upward out of a vat of resin.
+        SLA printing is an excellent choice to pieces with small details or complex geometries such as figurines.</p>
+    </p>
+  </subsection>
+
+
+  <subsection xml:id="subsec-3dpavailability">
+    <title>Maker Campus Availability</title>
+
+    <p>
+        <term>Design Software:</term> AutoCAD, TinkerCAD, Blender, Fusion360, Oculus Medium, Meshroom, Adobe Project Neo, OnShape. 
+     </p>
+
+     <p>
+        <term>Slicing Software:</term> Prusa Slicer, Cura, Flashprint, Chitubox, and Photon Workshop, Canvas 
+     </p>
+
+     <p>
+        <term>Hardware:</term> FLM printers (filament-based), SLA printers, 3D scanners and Virtual Reality (see “Labs and Equipment” below for specific hardware)
+     </p>
+    
+  </subsection>
+</section>

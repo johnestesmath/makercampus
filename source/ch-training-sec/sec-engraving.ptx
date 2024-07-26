@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-engraving" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Digital Cutting and Engraving</title>
+
+  <p> The Maker Campus offers several options when it comes to cutting and engraving items. Vinyl cutting is a process which uses 2D vector design software and a computer-controlled cutting machine to cut out designs using a metal blade for use as signs, stickers, or heat transfer. Laser cutters and engravers also begin with vector design software, but instead of a blade, it uses a high-powered focused beam of light to cut or engrave designs into materials such as wood, plastic, and leather. CNC (Computer Numerical Control) machines use computers to control machine devices such as routers, and plasma cutters to cut and/or engrave flat or sheet materials. CNC machines use CAM (Computer Aided Machining) software to direct machine output. </p>
+
+  <subsection xml:id="subsec-engravingavailability">
+    <title>Maker Campus Availability</title>
+
+     <p>
+        <term>Software:</term> Adobe Illustrator (Art + Design Majors), Inkscape, Cricut, Vinyl Master Pro, vCarve, Carbide Create, Adobe Suite, Glowforge, FireCAM, Fire Control
+     </p>
+
+     <p>
+        <term>Hardware:</term> Wood CNC machines, laser cutter, a vinyl cutter, Cricut, CNC plasma cutter. (see “Labs and Equipment” below for specific machines.)
+     </p>
+    
+  </subsection>
+</section>

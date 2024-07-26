@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-skills" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Skills</title>
+
+  <p> Members of the Maker Campus will have opportunities to learn lab equipment and software through courses, faculty-led projects, or training seminars conducted by either the faculty or a trained and authorized member. 
+      </p>
+
+  <p>
+    Currently supported fabrication methods include 
+    <ul>
+        <li>
+            <p>
+                3D Printing (FDM and SLA)
+            </p>
+        </li>
+        <li>
+            <p>
+                laser cutting and engraving
+            </p>
+        </li>
+        <li>
+            <p>
+                vinyl cutting
+            </p>
+        </li>
+        <li>
+            <p>
+                robotic drawing
+            </p>
+        </li>
+        <li>
+            <p>
+                robotic pottery
+            </p>
+        </li>
+        <li>
+            <p>
+                electronics building
+            </p>
+        </li>
+        <li>
+            <p>
+                CNC machining in wood and metal
+            </p>
+        </li>
+        <li>
+            <p>
+                vacuum forming 
+            </p>
+        </li>
+        <li>
+            <p>
+                basic wood and metal shop processes
+            </p>
+        </li>
+        <li>
+            <p>
+                soldering
+            </p>
+        </li>
+    </ul>
+  </p>
+
+  <p> 
+    Training is basic robotics is available by joining the Maker Campus Robotics Crew (a subset of the Maker Campus).
+  </p>
+
+</section>

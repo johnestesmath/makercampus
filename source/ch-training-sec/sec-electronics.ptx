@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-electronics" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Electronics Building</title>
+
+  <p> Electronics connects the digital world with the natural world through various sensory inputs. It creates and connects devices which control and amplify electric currents used by electronic devices and circuitry. The control of such devices is done through coding.  </p>
+
+  <subsection xml:id="subsec-electronicsavailability">
+    <title>Maker Campus Availability</title>
+
+     <p>
+        <term>Software:</term> Arduino IDE, Python, Processing, Atom, and previously mentioned software 
+     </p>
+
+     <p>
+        <term>Hardware:</term> PC’s, Arduino Unos and Nanos, Raspberry Pi, soldering iron and tools, miscellaneous sensors, machine parts, and robotics kits
+     </p>
+    
+  </subsection>
+</section>

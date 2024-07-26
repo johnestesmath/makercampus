@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-other" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Other Machines &amp; Processes</title>
+
+  <p> The Maker Campus is constantly evolving and expanding, below is a listing of just some of the current fabrication methods available. </p>
+
+  <subsection xml:id="subsec-otheravailability">
+    <title>Maker Campus Availability</title>
+
+     <p>
+        <term>Software:</term> Inkscape, Adobe (Art + Design Majors),  OnShape, Fusion 360, AutoCAD, Oculus Medium, Gravity Sketch, Blender, etc. (see more above)
+     </p>
+
+     <p>
+        <term>Hardware:</term> Robotic Drawing, Robotic Pottery, Vacuum Forming, woodshop, metal shop (see “Labs and Equipment” below)
+     </p>
+    
+  </subsection>
+</section>

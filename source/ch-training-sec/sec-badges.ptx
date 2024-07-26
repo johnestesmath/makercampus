@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-badges" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Nametags &amp; Badges</title>
+
+  <p> The Maker Campus operates according to a badge system. </p>
+
+  <p>
+    <figure> <!-- source: https://math.fandom.com/wiki/Egyptian_mathematics -->
+      <image xml:id="fig-certifications" source="MC_Certs.png" width="100%" />
+      
+    </figure>
+  </p>
+
+
+
+</section>
