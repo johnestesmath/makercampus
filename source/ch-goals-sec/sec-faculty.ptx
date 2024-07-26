@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-faculty" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Faculty Advisors</title>
+
+  <p> The faculty advisor’s role is to facilitate projects, research opportunities, 
+    provide skill and safety training, facilitate events and work with the administration to 
+    enhance member experience. Current Faculty Advisors:  </p>
+
+    <p>
+        <figure> <!-- source: https://math.fandom.com/wiki/Egyptian_mathematics -->
+          <image xml:id="fig-theisen" source="natepic.png" width="30%" />
+          
+        </figure>
+      </p>
+
+    <p>
+        <term>Mr. Nate Theisen</term> Co-Chair and Professor of Art &amp; Design
+        <url href="https://www.belhaven.edu/about/contact/faculty/theisen-nate.html">Faculty Page</url>
+    </p>
+
+    <p>
+        <figure> <!-- source: https://math.fandom.com/wiki/Egyptian_mathematics -->
+          <image xml:id="fig-estes" source="estespic.jpg" width="30%" />
+          
+        </figure>
+      </p>
+
+    <p>
+        <term>Dr. John Estes</term> Dean of the School of Science &amp; Mathematics, Professor and Yerger Chair of Mathematics and Computer Science, 
+        and Director of Engineering Partnerships.
+        <url href="https://www.belhaven.edu/about/contact/faculty/estes-john.html">Faculty Page</url>
+    </p>
+
+</section>

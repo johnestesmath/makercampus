@@ -5,9 +5,20 @@
 
   <introduction>
     <p> Text before the first section. </p>
+
+    <p>
+        <figure> <!-- source: https://math.fandom.com/wiki/Egyptian_mathematics -->
+          <image xml:id="fig-logo" source="MakerCampus_Logo.jpg" width="100%" />
+          
+        </figure>
+      </p>
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href="ch-goals-sec/sec-mission.ptx" />
+  <!-- include sections -->
+  <xi:include href="ch-goals-sec/sec-makerculture.ptx" />
+  <!-- include sections -->
+  <xi:include href="ch-goals-sec/sec-faculty.ptx" />
 
 </chapter>
