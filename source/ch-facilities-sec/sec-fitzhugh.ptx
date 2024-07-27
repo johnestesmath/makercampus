@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-fitzhugh" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Fitzhugh 300 Lab</title>
+
+  <p>
+    Located on the third floor of the Fitzhugh. The Fitzhugh 300 Lab includes six lab PC's with the following
+    software:
+  </p>
+
+  <p>
+    <ul>
+        <li>
+            <p>
+                AutoCAD and Fusion 360
+            </p>
+        </li>
+        <li>
+            <p> 
+                Inventor
+            </p>  
+        </li>
+        <li>
+            <p>
+                Mathematica
+            </p>
+        </li>
+        <li>
+            <p>
+                Arduino IDE
+            </p>
+        </li>
+        <li>
+            <p>
+               Processing
+            </p>
+        </li>
+        <li>
+            <p>
+                R
+            </p>
+        </li>
+        <li>
+            <p>
+                print slicers
+            </p>
+        </li>
+    </ul>
+  </p>
+
+
+  
+
+    
+
+  
+    
+
+</section>

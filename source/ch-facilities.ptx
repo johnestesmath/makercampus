@@ -7,6 +7,14 @@
     <p> Text before the first section. </p>
   </introduction>
 
+  <!-- include sections -->
+  <xi:include href="ch-facilities-sec/sec-library.ptx" />
+  <!-- include sections -->
+  <xi:include href="ch-facilities-sec/sec-fitzhugh.ptx" />
+  <!-- include sections -->
+  <xi:include href="ch-facilities-sec/sec-bitsy.ptx" />
+    <!-- include sections -->
+    <xi:include href="ch-facilities-sec/sec-labrules.ptx" />
   
 
 </chapter>

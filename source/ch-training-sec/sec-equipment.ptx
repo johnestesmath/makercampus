@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-equipment" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Equipment Usage</title>
+
+  <p> Members may only use the equipment that they have been trained in.  (see “Training” above and Appendix B)   </p>
+
+  <subsection xml:id="subsec-handling">
+    <title>Handling</title>
+    
+    <p>
+      Members may only use consumable lab materials with permission.  Training is required before use rights are granted. 
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-purchasing">
+    <title>Purchasing</title>
+    The Faculty Advisors do their best to provide consumables such as PLA filament and 
+    UV resin, wood, etc. Beyond what is provided in the lab, materials (especially if exotic) 
+    will be purchased by the member using it. 
+  </subsection>
+
+  <subsection xml:id="subsec-cleanup">
+    <title>Clean Up</title>
+    <p>
+      Follow all clean-up procedures learned during training. In general, all filament rolls must 
+      be put back into the correct air-tight bin, all resin printers closed, all resin
+       cleaned off, all surfaced cleaned, and floors swept if appropriate to the mess.
+    </p>
+
+    <p>
+      Furthermore, all tools must be put away and equipment powered down after use. 
+    </p>
+
+    <p>
+      Membership may be revoked if clean-up is continuously avoided. 
+    </p>
+    
+  </subsection>
+
+</section>

@@ -4,8 +4,14 @@
   <title>Projects &amp; Service</title>
 
   <introduction>
-    <p> Text before the first section. </p>
+    <p> Projects form the best expression of our Mission Statement (above). Therefore, members are strongly encouraged to participate in as many activities as possible.  
+      Projects do not include the individual use of a fabrication machine for a single item but are larger in scale and often require multiple member participation and faculty advisor oversight. Projects come in two types: </p>
   </introduction>
+
+  <!-- include sections -->
+  <xi:include href="ch-projects-sec/sec-serviceproj.ptx" />
+  <!-- include sections -->
+  <xi:include href="ch-projects-sec/sec-indivproj.ptx" />
 
 
 </chapter>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-library" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Library 200 Lab</title>
+
+  <p>
+    Located on the second floor of the library. The Library 200 Lab includes the following:
+  </p>
+
+  <p>
+    <ul>
+        <li>
+            <p>
+                Workstations 
+            </p>
+        </li>
+        <li>
+            <p> 3D Printers (FLM):
+                <ul>
+                    <li>
+                        <p>
+                            Original Prusa i3 mks 4 (x4)
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                           Bambu Labs X1 Carbon 
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Original Prusa XL
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            Creality Ender 3 Pro 3
+                        </p>
+                    </li>
+                </ul>
+            </p>
+        </li>
+        <li>
+            <p>
+                Lab PC
+            </p>
+        </li>
+        <li>
+            <p>
+                Tools and hardware
+            </p>
+        </li>
+        <li>
+            <p>
+                soldering stations
+            </p>
+        </li>
+        <li>
+            <p>
+                Arduino (Unos, Nanos, Megas)
+            </p>
+        </li>
+    </ul>
+  </p>
+
+
+  
+
+    
+
+  
+    
+
+</section>

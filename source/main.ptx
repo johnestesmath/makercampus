@@ -18,7 +18,7 @@
     <xi:include href="./ch-membership.ptx" />
 
     <!-- Include chapters -->
-    <xi:include href="./ch-training.ptx" />
+   <xi:include href="./ch-training.ptx" />
 
     <!-- Include chapters -->
     <xi:include href="./ch-projects.ptx" />

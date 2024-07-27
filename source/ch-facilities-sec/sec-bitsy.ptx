@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-bitsy" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Bitsy Irby Labs</title>
+
+  <p>
+    Bitsy Irby boasts two lab spaces of the Maker Campus located on east wing of the first floor. These
+    labs include the following.
+  </p>
+
+  <subsection xml:id="subsec-biFab">
+    <title>Bitsy-Irby 131: 3D Fabrication Lab</title>
+
+    <p>
+        <ul>
+            <li>
+                <p>
+                    4 Workstations and one Large Station 
+                </p>
+            </li>
+            <li>
+                <p>
+                    FLM 3D Printing: 4 Flashforge Finders, 1 Flashforge Finder version 3, Lulzbot Workhorse Printer with Pallette 2 Multifilament Control Hub, 2 Artillery Sidewinders, and 1 FLSUN Super Racer 
+                </p>
+            </li>
+            <li>
+                <p>
+                    SLA 3D Printing: Peopoly Phenom, Elegoo Mars 5 Ultra, Anycubic Photon M3, Elegoo Mercury XS Wash and Curing Station 
+                </p>
+            </li>
+            <li>
+                <p>
+                    Computing/Designing:  2 Custom Built PCs 
+                </p>
+            </li>
+            <li>
+                <p>
+                    Cutting and Engraving: Glowforge, XL Vinyl Cutting Machine, Cricut Maker 3 
+                </p>
+            </li>
+            <li>
+                <p>
+                    Virtual Sculpting 2 Oculus Rift S Headsets with Oculus Medium Software 
+                </p>
+            </li>
+            <li>
+                <p>
+                    3D Scanning: Einscan-SE, Creality Scan Lizard  
+                </p>
+            </li>
+        </ul>
+    </p>
+    
+  </subsection>
+
+  <subsection xml:id="subsec-bisculpture">
+    <title>Bitsy Irby 126: Sculpture Studio</title>
+
+    <p>
+        Shapeoko XXL CNC Router 
+
+3018 CNC Machine 
+
+Woodshop tools (Saws, Planers, Lathe, etc.) 
+
+Metal Shop (welders, saws, benders, grinders, etc.) 
+
+Post-production and clean-up equipment 
+
+Formech Vacuum Former 
+
+Cross Fire Pro Plasma CNC 
+
+3D Potter 
+    </p>
+    
+  </subsection>
+
+
+
+  <p>
+    <ul>
+        <li>
+            <p>
+                AutoCAD and Fusion 360
+            </p>
+        </li>
+        <li>
+            <p> 
+                Inventor
+            </p>  
+        </li>
+        <li>
+            <p>
+                Mathematica
+            </p>
+        </li>
+        <li>
+            <p>
+                Arduino IDE
+            </p>
+        </li>
+        <li>
+            <p>
+               Processing
+            </p>
+        </li>
+        <li>
+            <p>
+                R
+            </p>
+        </li>
+        <li>
+            <p>
+                print slicers
+            </p>
+        </li>
+    </ul>
+  </p>
+
+
+  
+
+    
+
+  
+    
+
+</section>

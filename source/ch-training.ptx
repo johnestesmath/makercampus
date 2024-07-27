@@ -9,12 +9,22 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="ch-membership/sec-skills.ptx" />
+  <xi:include href="ch-training-sec/sec-safety.ptx" />
   <!-- include sections -->
-  <xi:include href="ch-membership/sec-badges.ptx" />
   <!-- include sections -->
-  <xi:include href="ch-membership/sec-3dprinting.ptx" />
-
+  <xi:include href="ch-training-sec/sec-skills.ptx" />
+  <!-- include sections -->
+  <xi:include href="ch-training-sec/sec-badges.ptx" />
+  <!-- include sections -->
+  <xi:include href="ch-training-sec/sec-3dprinting.ptx" />
+  <!-- include sections -->
+  <xi:include href="ch-training-sec/sec-engraving.ptx" />
+  <!-- include sections -->
+  <xi:include href="ch-training-sec/sec-electronics.ptx" />
+  <!-- include sections -->
+  <xi:include href="ch-training-sec/sec-other.ptx" />
+  <!-- include sections -->
+  <xi:include href="ch-training-sec/sec-equipment.ptx" />
 
 
 </chapter>
