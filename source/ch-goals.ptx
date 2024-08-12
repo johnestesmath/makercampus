@@ -4,8 +4,6 @@
   <title>Goals of the Maker Campus</title>
 
   <introduction>
-    <p> Text before the first section. </p>
-
     <p>
         <figure> <!-- source: https://math.fandom.com/wiki/Egyptian_mathematics -->
           <image xml:id="fig-logo" source="MakerCampus_Logo.jpg" width="100%" />
