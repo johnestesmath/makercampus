@@ -259,7 +259,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.1",
   "title": "Service Projects",
-  "body": " Service Projects  Throughout the year, the Maker Campus is approached by various individuals and groups within and outside Belhaven University for service projects. These projects are voluntary, facilitated by a Faculty Advisor, and led by one or more members.  "
+  "body": " Service Projects  Throughout the year, the Maker Campus is approached by various individuals and groups within and outside Belhaven University for service projects. These projects are voluntary, facilitated by a Faculty Advisor, and led by one or more members.        We view service projects as an opportunity to support the local community and are an essential part of the Belhaven Maker Campus. We appreciate any work and time our members provide in these endeavors.  "
+},
+{
+  "id": "sec-serviceproj-3-1",
+  "level": "2",
+  "url": "sec-serviceproj.html#sec-serviceproj-3-1",
+  "type": "Figure",
+  "number": "4.1.1",
+  "title": "",
+  "body": "   "
 },
 {
   "id": "sec-inidvproj",
@@ -268,7 +277,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "4.2",
   "title": "Individual Projects",
-  "body": " Individual Projects  A member of the Belhaven Maker Campus may submit a project request with an estimated timeline and list of supplies. If accepted by a faculty advisor, the member can work on the project with priority to machines and may solicit the aid of other members.  "
+  "body": " Individual Projects  Belhaven Maker Campus members have lab access and are free to use the machines they are trained for. Permission is required to use consumable materials such as vinyl, acrylic, resin, etc. For small projects, members are free to use nonreserved PLA filament.  Some projects may be more involved. For larger projects (detialed below), a member of the Belhaven Maker Campus may submit a project request with an estimated timeline and list of supplies. If accepted by a faculty advisor, the member can work on the project with priority to machines and may solicit the aid of other members.  A Project Request Form should be approved before attempting the following;   a print with print-time exceeding 24 hours    a print project that will require a reserved printer    a print requiring a non-PLA material on a FDM printer    a project including electronics    a project that requires assembly and tools      Rule of Thumb: If you have a question, then it's best to ask.  "
+},
+{
+  "id": "sec-inidvproj-5",
+  "level": "2",
+  "url": "sec-inidvproj.html#sec-inidvproj-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Rule of Thumb: "
 },
 {
   "id": "sec-library",
