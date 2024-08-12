@@ -3,9 +3,53 @@
 <section xml:id="sec-inidvproj" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Individual Projects</title>
 
-  <p> A member of the Belhaven Maker Campus may submit a project request 
+  <p>
+    Belhaven Maker Campus members have lab access and are free to use the machines they are 
+    trained for. Permission is required to use consumable materials such as vinyl,
+    acrylic, resin, etc. For small projects, members are free to use nonreserved PLA
+    filament.
+  </p>
+ 
+ 
+  <p> Some projects may be more involved. For larger projects (detialed below), a
+     member of the Belhaven Maker Campus may submit a project request 
     with an estimated timeline and list of supplies. If accepted by a faculty 
     advisor, the member can work on the project with priority to machines and 
     may solicit the aid of other members.      </p>
+
+  <p>
+    A Project Request Form should be approved before attempting the following;
+    <ul>
+      <li>
+        <p>
+          a print with print-time exceeding 24 hours
+        </p>
+      </li>
+      <li>
+        <p>
+          a print project that will require a reserved printer
+        </p>
+      </li>
+      <li>
+        <p>
+          a print requiring a non-PLA material on a FDM printer
+        </p>
+      </li>
+      <li>
+        <p>
+          a project including electronics
+        </p>
+      </li>
+      <li>
+        <p>
+          a project that requires assembly and tools
+        </p>
+      </li>
+    </ul>
+  </p>
+
+  <p>
+    <term>Rule of Thumb: </term> If you have a question, then it's best to ask.
+  </p>
 
 </section>
