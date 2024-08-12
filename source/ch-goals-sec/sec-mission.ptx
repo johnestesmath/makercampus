@@ -3,6 +3,15 @@
 <section xml:id="sec-mission" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Mission Statement</title>
 
+  <introduction>
+    <p>
+        <figure> <!-- source: https://math.fandom.com/wiki/Egyptian_mathematics -->
+          <image xml:id="fig-logo2" source="MakerCampus_Logo.jpg" width="100%" />
+          
+        </figure>
+      </p>
+  </introduction>
+
   <p> The Belhaven Maker Campus is a collaborative partnership between the Art &amp; Design and Math &amp; Computer Science Departments to provide an environment that inspires creativity and critical thinking through use of constructive technology.  
   </p>
 

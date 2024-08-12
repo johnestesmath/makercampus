@@ -18,10 +18,37 @@
     those outside the movement. 
   </p>
 
-  <figure xml:id="vid-makerculture">
-    <video youtube="mX0NB9IyYpU"/>
-     <caption></caption>
-  </figure>
+  <p>
+    <figure> <!-- source: https://nau.edu/library/makerlab/ -->
+      <image xml:id="fig-makerlabs" source="MakerLab.jpg" width="80%" />
+      <caption>The MakerLab a Cline Library at North Arizona University</caption>
+    </figure>
+  </p>
+
+  <p>
+    Maker culture is found across community spaces, libraries, and universities in a variety of 
+    maker labs. These facilities typically house equipment ranging from soldering to podcast stations to sowing to 3D printing.
+  </p>
+
+  <subsection xml:id="subsec-makerfair">
+    <title>Maker Fairs</title>
+
+    <p>
+      In addition to maker spaces, Maker Fairs are becomming more popular year by year across the 
+      country. You can find all sorts of unique inventions and creative talents on display at these eclectic
+      fairs.
+    </p>
+
+    <figure xml:id="vid-makerculture">
+      <video youtube="wVilsVmpQv4"/>
+       <caption>Recap of the 2023 Bay Are Maker Faire</caption>
+    </figure>
+    
+  </subsection>
+
+  
+
+  
 
   
 </section>
