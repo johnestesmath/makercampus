@@ -16,7 +16,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.1",
   "title": "Mission Statement",
-  "body": " Mission Statement  The Belhaven Maker Campus is a collaborative partnership between the Art & Design and Math & Computer Science Departments to provide an environment that inspires creativity and critical thinking through use of constructive technology.  The Belhaven Maker Campus has the following stated goals:   Develop and maintain a maker culture among the student body    Provide cross-departmental opportunities with a focus on a STEAM (Science, Technology, Engineering, Art, and Mathematics) mentality    Provide access to current and traditional tools and methods of production    Promote the creation of unique projects both student-led and professionally funded    Increase awareness about how the Biblical Worldview intersects with contemporary material production    Provide skill-training in emerging technology and processes    Inspire students to engage culture creatively and effectually through making    Ground students in traditional thought and practice while motivating them to find ways to personally engage with the most contemporary aspects of their chosen field of study.     "
+  "body": " Mission Statement          The Belhaven Maker Campus is a collaborative partnership between the Art & Design and Math & Computer Science Departments to provide an environment that inspires creativity and critical thinking through use of constructive technology.  The Belhaven Maker Campus has the following stated goals:   Develop and maintain a maker culture among the student body    Provide cross-departmental opportunities with a focus on a STEAM (Science, Technology, Engineering, Art, and Mathematics) mentality    Provide access to current and traditional tools and methods of production    Promote the creation of unique projects both student-led and professionally funded    Increase awareness about how the Biblical Worldview intersects with contemporary material production    Provide skill-training in emerging technology and processes    Inspire students to engage culture creatively and effectually through making    Ground students in traditional thought and practice while motivating them to find ways to personally engage with the most contemporary aspects of their chosen field of study.     "
+},
+{
+  "id": "sec-mission-2-1-1",
+  "level": "2",
+  "url": "sec-mission.html#sec-mission-2-1-1",
+  "type": "Figure",
+  "number": "1.1.1",
+  "title": "",
+  "body": "   "
 },
 {
   "id": "sec-makerculture",
@@ -25,16 +34,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1.2",
   "title": "Maker Culture",
-  "body": " Maker Culture  The Maker Culture (aka Maker Movement) is a rapidly growing social movement centered around the idea of physical production. It is a loose confederation comprised of artists, scientists, and laborers from various trades. Maker communities focus on hands-on learning and the creative incorporation of current technology to better society. Open source and collaborative, this movement seeks to increase access to current technology, ideas, and resources for everyone.  This movement is an exercise in sharing and culture-building. Methodologically the Biblical Worldview, with its focus on service and charity, can: 1) find ways to connect with and evangelize within the Maker Movement and 2) collaborate with others to improve the general condition of those outside the movement.      "
+  "body": " Maker Culture  The Maker Culture (aka Maker Movement) is a rapidly growing social movement centered around the idea of physical production. It is a loose confederation comprised of artists, scientists, and laborers from various trades. Maker communities focus on hands-on learning and the creative incorporation of current technology to better society. Open source and collaborative, this movement seeks to increase access to current technology, ideas, and resources for everyone.  This movement is an exercise in sharing and culture-building. Methodologically the Biblical Worldview, with its focus on service and charity, can: 1) find ways to connect with and evangelize within the Maker Movement and 2) collaborate with others to improve the general condition of those outside the movement.      The MakerLab a Cline Library at North Arizona University    Maker culture is found across community spaces, libraries, and universities in a variety of maker labs. These facilities typically house equipment ranging from soldering to podcast stations to sowing to 3D printing.   Maker Fairs  In addition to maker spaces, Maker Fairs are becomming more popular year by year across the country. You can find all sorts of unique inventions and creative talents on display at these eclectic fairs.    Recap of the 2023 Bay Are Maker Faire    "
+},
+{
+  "id": "sec-makerculture-4-1",
+  "level": "2",
+  "url": "sec-makerculture.html#sec-makerculture-4-1",
+  "type": "Figure",
+  "number": "1.2.1",
+  "title": "",
+  "body": "   The MakerLab a Cline Library at North Arizona University  "
 },
 {
   "id": "vid-makerculture",
   "level": "2",
   "url": "sec-makerculture.html#vid-makerculture",
   "type": "Figure",
-  "number": "1.2.1",
+  "number": "1.2.2",
   "title": "",
-  "body": "   "
+  "body": "  Recap of the 2023 Bay Are Maker Faire  "
 },
 {
   "id": "sec-faculty",
@@ -88,7 +106,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2.1",
   "title": "Membership",
-  "body": " Membership  Belhaven University students may join the Maker Campus by paying a $20 annual fee. Email one of the Faculty Advisors or scan the QR code located in the labs to join.  Members of the Maker Campus obtain card access to the labs by completing a lab orientation for each respective space.   Benefits of Membership   "
+  "body": " Membership  Belhaven University students may join the Maker Campus by paying a $20 annual fee. Email one of the Faculty Advisors or scan the QR code located in the labs to join.  Once the membership is approved, members of the Maker Campus obtain card access to the labs by completing a lab orientation for each respective space.  In order to use Belhaven Maker Campus equipment, new members must go through an orientation with either a Faculty Advisor or a lab assistant. Orientations can be scheduled via email.   Benefits of Membership  Membership in the Belhaven Maker Campus includes the following benefits.   access to all Maker Campus lab spaces    the Maker Campus weekly newsletter    invitation to Maker Campus groups such as the Robotics Crew    invitation to Maker Campus gatherings and events    training on 3D printers, Glowforge, Arduino, etc.    access to Project Request forms      "
+},
+{
+  "id": "sec-meetings",
+  "level": "1",
+  "url": "sec-meetings.html",
+  "type": "Section",
+  "number": "2.2",
+  "title": "Meetings, Events &amp; Communication",
+  "body": " Meetings, Events & Communication  The Maker Campus is a community, and good communication is the foundation of good community.   Meetings  Faculty Advisors will utilize one or more of the communication methods (see “Communications” below) to call a meeting. Members are expected to attend all meetings. If a member is not able to attend due to a conflict, notification must be given to a Faculty Advisor.    Events  Sometimes, the Maker Campus participates in events hosted by Belhaven and other local institutions. The Maker Campus is represented at Belhaven’s Get Involved Fair as well as the Major’s Fair, and in addition to the School of Science & Mathematics, the Maker Campus participates in Mississippi Science Fest at either the Mississippi Children’s Museum or the Museum of Natural Science.  These events are successful in large part due to the support of our members. We invite our members to support our Belhaven community (and local community) by participating in these events    Communication  The Maker Campus Team via Microsoft Teams is the best way to keep current with Maker Campus news and information. Here members can share ideas and projects they are working on, collaborate with a project-team, and connect with other Maker Campus members. Members will gain access to this channel upon paying the membership fee. Please inform a Faculty Advisor if you have paid the fee and are not granted access.  Each week the Maker Campus sends out an update in the form of an email newsletter. This newsletter announces meetings, changes, new materials and equipment, and other pertinent information. Please inform a Faculty Advisor of you have paid the fee and are not receiving the newsletter.  Faculty Advisors or Administrative Assistants may also send out emails regarding information not included in the Newsletter or posted on Teams; or reminders of that information.   "
 },
 {
   "id": "sec-safety",
